@@ -41,35 +41,31 @@ function sidebar() {
 <li className="nav-item">
     <a className="nav-link collapsed" href="javascript(void)" data-toggle="collapse" data-target="#collapseUtilities"
         aria-expanded="true" aria-controls="collapseUtilities">
-        <i className="fas fa-fw fa-wrench"></i>
+        
         <span>Appointment</span>
     </a>
 </li>
 <li className="nav-item">
     <a className="nav-link collapsed" href="javascript(void)" data-toggle="collapse" data-target="#collapseUtilities"
         aria-expanded="true" aria-controls="collapseUtilities">
-        <i className="fas fa-fw fa-wrench"></i>
+       
         <span>Medical Order</span>
     </a>
 </li>
 <li className="nav-item">
     <a className="nav-link collapsed" href="javascript(void)" data-toggle="collapse" data-target="#collapseUtilities"
         aria-expanded="true" aria-controls="collapseUtilities">
-        <i className="fas fa-fw fa-wrench"></i>
+          <i class="fa-thin fa-memo-pad"></i>
         <span>Message</span>
     </a>
 </li>
 <li className="nav-item">
-    <a className="nav-link collapsed" href="javascript(void)" data-toggle="collapse" data-target="#collapseUtilities"
-        aria-expanded="true" aria-controls="collapseUtilities">
-        <i className="fas fa-fw fa-wrench"></i>
+    <a className="nav-link collapsed" href="javascript(void)" >
         <span>Payment</span>
     </a>
 </li>
 <li className="nav-item">
-    <a className="nav-link collapsed" href="javascript(void)" data-toggle="collapse" data-target="#collapseUtilities"
-        aria-expanded="true" aria-controls="collapseUtilities">
-        <i className="fas fa-fw fa-wrench"></i>
+<a className="nav-link collapsed" href="javascript(void)" >
         <span>Setting</span>
     </a>
 </li>
