@@ -123,7 +123,7 @@ function Dashboard() {
           
         </tr>
         <tr>
-          <th><i className=" fa-thin fa-stop"></i></th>
+          <th> <i className=" fa-thin fa-stop"></i></th>
           <th style={{color:"blue"}}>#AHGA68</th>
           <th  className='text-muted'>23/09/2022</th>
           <th  className='text-muted'>Jacob Marcus</th>

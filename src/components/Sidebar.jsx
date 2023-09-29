@@ -24,39 +24,34 @@ function sidebar() {
 <!-- Nav Item - Dashboard --> */}
 <li className="nav-item active ">
     <a className="nav-link" href="javascript(void)">
-        <i className="fas fa-fw fa-tachometer-alt"></i>
-        <span className='{}'>Dashboard</span></a>
+    <i className="fa-solid fa-grid-horizontal" ></i>
+    {/* <i className="fa-solid fa-grid-horizontal" style={{color: "#155fe0",}} /> */}
+        <span>Dashboard</span></a>
 </li>
 
 {/* <!-- Nav Item - Pages Collapse Menu --> */}
 <li className="nav-item">
-    <a className="nav-link collapsed" href="javascript(void)" data-toggle="collapse" data-target="#collapseTwo"
-        aria-expanded="true" aria-controls="collapseTwo">
-       <i class="fa-thin fa-memo-pad"></i>
-        <span>Lab Test</span>
+    <a className="nav-link collapsed" href="javascript(void)">
+   
+       <span>Lab Test</span>
     </a>
 </li>
 
 {/* <!-- Nav Item - Utilities Collapse Menu --> */}
 <li className="nav-item">
-    <a className="nav-link collapsed" href="javascript(void)" data-toggle="collapse" data-target="#collapseUtilities"
-        aria-expanded="true" aria-controls="collapseUtilities">
-        
+    <a className="nav-link collapsed" href="javascript(void)" >
+   
         <span>Appointment</span>
     </a>
 </li>
 <li className="nav-item">
-    <a className="nav-link collapsed" href="javascript(void)" data-toggle="collapse" data-target="#collapseUtilities"
-        aria-expanded="true" aria-controls="collapseUtilities">
-       
-        <span>Medical Order</span>
+    <a className="nav-link collapsed" href="javascript(void)" >
+       <span>Medical Order</span>
     </a>
 </li>
 <li className="nav-item">
-    <a className="nav-link collapsed" href="javascript(void)" data-toggle="collapse" data-target="#collapseUtilities"
-        aria-expanded="true" aria-controls="collapseUtilities">
-          <i class="fa-thin fa-memo-pad"></i>
-        <span>Message</span>
+    <a className="nav-link collapsed" href="javascript(void)" >
+       <span>Message</span>
     </a>
 </li>
 <li className="nav-item">
